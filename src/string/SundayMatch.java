@@ -2,6 +2,7 @@ package string;
 
 
 /**
+ * 参考：http://blog.csdn.net/qq575787460/article/details/40866661
  * sunnday算法实现字符串匹配
  * Created by zsb on 2018/2/27.
  */
